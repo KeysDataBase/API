@@ -18,4 +18,5 @@ struct server
 	static bool is_product_frozen();
 	static void get_bytes();
 	static std::vector<uint8_t> decrypt_bytes();
+	static void clear();
 }; 
