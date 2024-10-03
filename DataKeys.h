@@ -19,4 +19,4 @@ struct server
 	static void get_bytes();
 	static std::vector<uint8_t> decrypt_bytes();
 	static void clear();
-};
+}; 
